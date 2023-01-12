@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6781928-2614-4177-9dcc-8b57a97486c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/addressbook/Contacts.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/addressbook/AddressBookMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/addressbook/AddressBookMain.java" afterDir="false" />
     </list>
